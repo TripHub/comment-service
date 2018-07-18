@@ -1,2 +1,10 @@
-# comment-service
-Deals with threads of comments attached to specific entities (e.g. locations, places, etc...).
+---
+description: >-
+  The comment service is responsible for managing threads of comments attached
+  to arbitrary entities.
+---
+
+# Comment Service
+
+View on [GitHub](https://github.com/TripHub/comment-service).
+
